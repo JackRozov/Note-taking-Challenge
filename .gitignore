@@ -1,16 +1,3 @@
-# coders guide
-reference.md
-
-# large files
-package-lock.json
-node_modules
-
-# mac user adaptation
-.DS_Store
-
-# credentials
-.env
-
 # Logs
 logs
 *.log
@@ -19,10 +6,6 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
-
-package-lock.json*
-
-# avoids issues for Mac Users
 .DS_Store
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
